@@ -3,4 +3,5 @@
 这是我在maser上做的修改。现在要更新到dev分支。
 这是我在maser上做的修改。现在要更新到dev分支。
 这是我在dev分支上做的修改，现在要更新到maser分支。
-为了测试 cherry-pick 功能，多写几个 commit，这是
+为了测试 cherry-pick 功能，多写几个 commit，这是1
+这是第2个提交。
